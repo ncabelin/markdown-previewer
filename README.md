@@ -1,5 +1,5 @@
 # Markdown Previewer
-This is an app that previews markdowns using ReactJS. Users type markdown syntax on an input box and can view the markdown interpretation instantly on the right of the box. I used a boiler template from Stephen Grider's React course.
+This is an app that previews markdowns using ReactJS. Users type markdown syntax on an input box and can view the markdown interpretation instantly on the right of the box. I used a boiler template from Stephen Grider's React course and the [marked library](https://cdnjs.com/libraries/marked).
 
 The live site preview is [mike.cabelin.com/markdown](https://mike.cabelin.com/markdown)
 
